@@ -1,6 +1,26 @@
 [
   {
     "Author": "Stoni",
+    "Name": "Big Fish Helper",
+    "InternalName": "BigFishHelper",
+    "AssemblyVersion": "0.1.0.0",
+    "Description": "Helps you catch Big Fish, working together with AutoHook.",
+    "Punchline": "Helper for catching Big Fish",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "fishing",
+      "bigfish",
+      "utility",
+      "bigfishhelper"
+    ],
+    "DalamudApiLevel": 15,
+    "RepoUrl": "https://github.com/stoni89/big-fish-helper",
+    "DownloadLinkInstall": "https://github.com/stoni89/big-fish-helper/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/stoni89/big-fish-helper/releases/latest/download/latest.zip",
+    "DownloadLinkTesting": "https://github.com/stoni89/big-fish-helper/releases/latest/download/latest.zip"
+  },
+  {
+    "Author": "Stoni",
     "Name": "The Explorer's Codex",
     "InternalName": "TheExplorersCodex",
     "AssemblyVersion": "0.9.0.0",

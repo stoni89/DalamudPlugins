@@ -1,0 +1,22 @@
+[
+  {
+    "Author": "Stoni",
+    "Name": "The Explorer's Codex",
+    "InternalName": "TheExplorersCodex",
+    "AssemblyVersion": "0.9.0.0",
+    "Description": "Completionist plugin per zone with automation capabilities.",
+    "Punchline": "Zone Completion, inspired by \"All the Things\" from WoW",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "collection",
+      "tracker",
+      "utility",
+      "explorerscodex"
+    ],
+    "DalamudApiLevel": 15,
+    "RepoUrl": "https://github.com/stoni89/explorers-codex",
+    "DownloadLinkInstall": "https://github.com/stoni89/explorers-codex/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/stoni89/explorers-codex/releases/latest/download/latest.zip",
+    "DownloadLinkTesting": "https://github.com/stoni89/explorers-codex/releases/latest/download/latest.zip"
+  }
+]

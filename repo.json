@@ -3,7 +3,7 @@
     "Author": "Stoni",
     "Name": "Big Fish Helper",
     "InternalName": "BigFishHelper",
-    "AssemblyVersion": "0.5.0.0",
+    "AssemblyVersion": "0.6.0.0",
     "Description": "Helps you catch Big Fish, working together with AutoHook.",
     "Punchline": "Helper for catching Big Fish",
     "ApplicableVersion": "any",
